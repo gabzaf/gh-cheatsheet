@@ -1,0 +1,14 @@
+# segredos e credenciais
+.env
+*.env
+*.pem
+*.key
+kubeconfig
+*.kubeconfig
+.kube/
+*secret*
+!seguranca.md
+
+# sistema
+.DS_Store
+*.swp
